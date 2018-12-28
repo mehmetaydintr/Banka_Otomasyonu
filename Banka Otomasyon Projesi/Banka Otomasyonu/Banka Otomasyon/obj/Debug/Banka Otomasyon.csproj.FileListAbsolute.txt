@@ -1,0 +1,85 @@
+C:\Users\Mehmet\Desktop\Yeni klasör\Banka Otomasyon\Banka Otomasyon\bin\Debug\Banka Otomasyon.exe.config
+C:\Users\Mehmet\Desktop\Yeni klasör\Banka Otomasyon\Banka Otomasyon\bin\Debug\Banka Otomasyon.exe
+C:\Users\Mehmet\Desktop\Yeni klasör\Banka Otomasyon\Banka Otomasyon\bin\Debug\Banka Otomasyon.pdb
+C:\Users\Mehmet\Desktop\Yeni klasör\Banka Otomasyon\Banka Otomasyon\obj\Debug\Banka Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\Desktop\Yeni klasör\Banka Otomasyon\Banka Otomasyon\obj\Debug\Banka_Otomasyon.Form1.resources
+C:\Users\Mehmet\Desktop\Yeni klasör\Banka Otomasyon\Banka Otomasyon\obj\Debug\Banka_Otomasyon.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\Yeni klasör\Banka Otomasyon\Banka Otomasyon\obj\Debug\Banka Otomasyon.csproj.GenerateResource.Cache
+C:\Users\Mehmet\Desktop\Yeni klasör\Banka Otomasyon\Banka Otomasyon\obj\Debug\Banka Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Yeni klasör\Banka Otomasyon\Banka Otomasyon\obj\Debug\Banka Otomasyon.exe
+C:\Users\Mehmet\Desktop\Yeni klasör\Banka Otomasyon\Banka Otomasyon\obj\Debug\Banka Otomasyon.pdb
+C:\Users\Mehmet\Desktop\Yeni klasör\Banka Otomasyon\Banka Otomasyon\obj\Debug\Banka_Otomasyon.FrmHsmBank.resources
+C:\Users\serba\Desktop\Banka Otomasyon\Banka Otomasyon\bin\Debug\Banka Otomasyon.exe.config
+C:\Users\serba\Desktop\Banka Otomasyon\Banka Otomasyon\obj\Debug\Banka Otomasyon.exe
+C:\Users\serba\Desktop\Banka Otomasyon\Banka Otomasyon\obj\Debug\Banka Otomasyon.pdb
+C:\Users\serba\Desktop\Banka Otomasyon\Banka Otomasyon\bin\Debug\Banka Otomasyon.exe
+C:\Users\serba\Desktop\Banka Otomasyon\Banka Otomasyon\bin\Debug\Banka Otomasyon.pdb
+C:\Users\serba\Desktop\Banka Otomasyon\Banka Otomasyon\obj\Debug\Banka Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\serba\Desktop\Banka Otomasyon\Banka Otomasyon\obj\Debug\Banka_Otomasyon.Form1.resources
+C:\Users\serba\Desktop\Banka Otomasyon\Banka Otomasyon\obj\Debug\Banka_Otomasyon.FrmHsmBank.resources
+C:\Users\serba\Desktop\Banka Otomasyon\Banka Otomasyon\obj\Debug\Banka_Otomasyon.Properties.Resources.resources
+C:\Users\serba\Desktop\Banka Otomasyon\Banka Otomasyon\obj\Debug\Banka Otomasyon.csproj.GenerateResource.Cache
+C:\Users\serba\Desktop\mission complate\Banka Otomasyon\bin\Debug\Banka Otomasyon.exe.config
+C:\Users\serba\Desktop\mission complate\Banka Otomasyon\obj\Debug\Banka Otomasyon.exe
+C:\Users\serba\Desktop\mission complate\Banka Otomasyon\obj\Debug\Banka Otomasyon.pdb
+C:\Users\serba\Desktop\mission complate\Banka Otomasyon\bin\Debug\Banka Otomasyon.exe
+C:\Users\serba\Desktop\mission complate\Banka Otomasyon\bin\Debug\Banka Otomasyon.pdb
+C:\Users\serba\Desktop\mission complate\Banka Otomasyon\obj\Debug\Banka Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\serba\Desktop\mission complate\Banka Otomasyon\obj\Debug\Banka_Otomasyon.Form1.resources
+C:\Users\serba\Desktop\mission complate\Banka Otomasyon\obj\Debug\Banka_Otomasyon.FrmHsmBank.resources
+C:\Users\serba\Desktop\mission complate\Banka Otomasyon\obj\Debug\Banka_Otomasyon.Properties.Resources.resources
+C:\Users\serba\Desktop\mission complate\Banka Otomasyon\obj\Debug\Banka Otomasyon.csproj.GenerateResource.Cache
+C:\Users\serba\Desktop\Banka Otomasyonu\Banka Otomasyon\bin\Debug\Banka Otomasyon.exe.config
+C:\Users\serba\Desktop\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka Otomasyon.exe
+C:\Users\serba\Desktop\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka Otomasyon.pdb
+C:\Users\serba\Desktop\Banka Otomasyonu\Banka Otomasyon\bin\Debug\Banka Otomasyon.exe
+C:\Users\serba\Desktop\Banka Otomasyonu\Banka Otomasyon\bin\Debug\Banka Otomasyon.pdb
+C:\Users\serba\Desktop\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\serba\Desktop\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka_Otomasyon.Form1.resources
+C:\Users\serba\Desktop\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka_Otomasyon.FrmHsmBank.resources
+C:\Users\serba\Desktop\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka_Otomasyon.Properties.Resources.resources
+C:\Users\serba\Desktop\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka Otomasyon.csproj.GenerateResource.Cache
+C:\Users\Mehmet\Desktop\3. YARIYIL\Nesneye Yönelik Programlama\Banka OtomasyonuFinal\Banka Otomasyon\bin\Debug\Banka Otomasyon.exe.config
+C:\Users\Mehmet\Desktop\3. YARIYIL\Nesneye Yönelik Programlama\Banka OtomasyonuFinal\Banka Otomasyon\bin\Debug\Banka Otomasyon.exe
+C:\Users\Mehmet\Desktop\3. YARIYIL\Nesneye Yönelik Programlama\Banka OtomasyonuFinal\Banka Otomasyon\bin\Debug\Banka Otomasyon.pdb
+C:\Users\Mehmet\Desktop\3. YARIYIL\Nesneye Yönelik Programlama\Banka OtomasyonuFinal\Banka Otomasyon\obj\Debug\Banka Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\Desktop\3. YARIYIL\Nesneye Yönelik Programlama\Banka OtomasyonuFinal\Banka Otomasyon\obj\Debug\Banka_Otomasyon.Form1.resources
+C:\Users\Mehmet\Desktop\3. YARIYIL\Nesneye Yönelik Programlama\Banka OtomasyonuFinal\Banka Otomasyon\obj\Debug\Banka_Otomasyon.FrmHsmBank.resources
+C:\Users\Mehmet\Desktop\3. YARIYIL\Nesneye Yönelik Programlama\Banka OtomasyonuFinal\Banka Otomasyon\obj\Debug\Banka_Otomasyon.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\3. YARIYIL\Nesneye Yönelik Programlama\Banka OtomasyonuFinal\Banka Otomasyon\obj\Debug\Banka Otomasyon.csproj.GenerateResource.Cache
+C:\Users\Mehmet\Desktop\3. YARIYIL\Nesneye Yönelik Programlama\Banka OtomasyonuFinal\Banka Otomasyon\obj\Debug\Banka Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\3. YARIYIL\Nesneye Yönelik Programlama\Banka OtomasyonuFinal\Banka Otomasyon\obj\Debug\Banka Otomasyon.exe
+C:\Users\Mehmet\Desktop\3. YARIYIL\Nesneye Yönelik Programlama\Banka OtomasyonuFinal\Banka Otomasyon\obj\Debug\Banka Otomasyon.pdb
+C:\Users\Mehmet\Desktop\3. YARIYIL\Nesneye Yönelik Programlama\Banka Otomasyonu\Banka Otomasyon\bin\Debug\Banka Otomasyon.exe.config
+C:\Users\Mehmet\Desktop\3. YARIYIL\Nesneye Yönelik Programlama\Banka Otomasyonu\Banka Otomasyon\bin\Debug\Banka Otomasyon.exe
+C:\Users\Mehmet\Desktop\3. YARIYIL\Nesneye Yönelik Programlama\Banka Otomasyonu\Banka Otomasyon\bin\Debug\Banka Otomasyon.pdb
+C:\Users\Mehmet\Desktop\3. YARIYIL\Nesneye Yönelik Programlama\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\Desktop\3. YARIYIL\Nesneye Yönelik Programlama\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka_Otomasyon.Form1.resources
+C:\Users\Mehmet\Desktop\3. YARIYIL\Nesneye Yönelik Programlama\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka_Otomasyon.FrmHsmBank.resources
+C:\Users\Mehmet\Desktop\3. YARIYIL\Nesneye Yönelik Programlama\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka_Otomasyon.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\3. YARIYIL\Nesneye Yönelik Programlama\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka Otomasyon.csproj.GenerateResource.Cache
+C:\Users\Mehmet\Desktop\3. YARIYIL\Nesneye Yönelik Programlama\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\3. YARIYIL\Nesneye Yönelik Programlama\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka Otomasyon.exe
+C:\Users\Mehmet\Desktop\3. YARIYIL\Nesneye Yönelik Programlama\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka Otomasyon.pdb
+C:\Users\Mehmet\Desktop\Banka Otomasyonu\Banka Otomasyon\bin\Debug\Banka Otomasyon.exe.config
+C:\Users\Mehmet\Desktop\Banka Otomasyonu\Banka Otomasyon\bin\Debug\Banka Otomasyon.exe
+C:\Users\Mehmet\Desktop\Banka Otomasyonu\Banka Otomasyon\bin\Debug\Banka Otomasyon.pdb
+C:\Users\Mehmet\Desktop\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\Desktop\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka_Otomasyon.Form1.resources
+C:\Users\Mehmet\Desktop\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka_Otomasyon.FrmHsmBank.resources
+C:\Users\Mehmet\Desktop\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka_Otomasyon.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka Otomasyon.csproj.GenerateResource.Cache
+C:\Users\Mehmet\Desktop\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka Otomasyon.exe
+C:\Users\Mehmet\Desktop\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka Otomasyon.pdb
+C:\Users\Mehmet\Desktop\Banka Otomasyon Projesi\Banka Otomasyonu\Banka Otomasyon\bin\Debug\Banka Otomasyon.exe.config
+C:\Users\Mehmet\Desktop\Banka Otomasyon Projesi\Banka Otomasyonu\Banka Otomasyon\bin\Debug\Banka Otomasyon.exe
+C:\Users\Mehmet\Desktop\Banka Otomasyon Projesi\Banka Otomasyonu\Banka Otomasyon\bin\Debug\Banka Otomasyon.pdb
+C:\Users\Mehmet\Desktop\Banka Otomasyon Projesi\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\Desktop\Banka Otomasyon Projesi\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka_Otomasyon.Form1.resources
+C:\Users\Mehmet\Desktop\Banka Otomasyon Projesi\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka_Otomasyon.FrmHsmBank.resources
+C:\Users\Mehmet\Desktop\Banka Otomasyon Projesi\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka_Otomasyon.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\Banka Otomasyon Projesi\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka Otomasyon.csproj.GenerateResource.Cache
+C:\Users\Mehmet\Desktop\Banka Otomasyon Projesi\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Banka Otomasyon Projesi\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka Otomasyon.exe
+C:\Users\Mehmet\Desktop\Banka Otomasyon Projesi\Banka Otomasyonu\Banka Otomasyon\obj\Debug\Banka Otomasyon.pdb
