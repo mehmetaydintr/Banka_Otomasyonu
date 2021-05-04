@@ -1,5 +1,12 @@
 # Banka Otomasyonu
 
+## İçerik
+
+  1. Kullanılan Teknojiler
+  2. Proje Tanımı
+  3. Uygulama İçi Görüntüler
+  4. UML Class Diagramı
+
 ## Kullanılan Teknolojiler
 
   + Visual Studio
