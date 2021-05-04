@@ -1,16 +1,12 @@
 # Banka Otomasyonu
 
-## İçerik
-
-1. Kullanılan Teknojiler
-2. Proje Tanımı
-3. Uygulama İçi Görüntüler
-4. UML Class Diagramı
-
 ## Kullanılan Teknolojiler
 
-![Image of Visual Studio](https://www.usine-logicielle.org/wp-content/uploads/2017/12/Visual-pic.jpg "Visual Studio")
-![Image of C#](https://analyse-innovation-solution.fr/applications/my_app/files/images/csharp-language-developpement-microsoft.jpg "C#")
+  + Visual Studio
+  + C#
+
+![Adsız](https://user-images.githubusercontent.com/37263322/117032936-9a9a1700-ad0a-11eb-844a-356b9bcfa489.png)
+
 
 ## Proje Tanımı
 
@@ -19,9 +15,9 @@ Nesneye Yönelik Programlama Dersi kapsamında yapmış olduğumuz bir Banka Oto
 ## Uygulama İçi Görüntüler
 
 ![image](https://user-images.githubusercontent.com/37263322/116911073-0f0f8000-ac4f-11eb-8f46-eb489de663f9.png "Giriş Ekranı")
-
+  
 ![image](https://user-images.githubusercontent.com/37263322/116911102-13d43400-ac4f-11eb-9676-9c0224dac876.png "Müşeri Ekleme")
-
+  
 ![image](https://user-images.githubusercontent.com/37263322/116911140-1fbff600-ac4f-11eb-92c3-4bcdd2d78a33.png "Hesap Açma")
 
 ![image](https://user-images.githubusercontent.com/37263322/116911164-25b5d700-ac4f-11eb-948d-f9391c8d05c6.png "Para Yatırma")
