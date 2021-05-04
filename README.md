@@ -5,7 +5,7 @@
   + Visual Studio
   + C#
 
-![Adsız](https://user-images.githubusercontent.com/37263322/117032936-9a9a1700-ad0a-11eb-844a-356b9bcfa489.png)
+![Adsız](https://huseyinyaman.com/wp-content/uploads/2020/01/VisualStudioCLogo.png)
 
 
 ## Proje Tanımı
