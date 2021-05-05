@@ -2,10 +2,10 @@
 
 ## İçerik
 
-  1. Kullanılan Teknojiler
-  2. Proje Tanımı
-  3. Uygulama İçi Görüntüler
-  4. UML Class Diagramı
+1. [Kullanılan Teknojiler](https://github.com/mehmetaydintr/Banka_Otomasyonu#kullan%C4%B1lan-teknolojiler)
+2. [Proje Tanımı](https://github.com/mehmetaydintr/Banka_Otomasyonu#proje-tan%C4%B1m%C4%B1)
+3. [Uygulama İçi Görüntüler](https://github.com/mehmetaydintr/Banka_Otomasyonu#uygulama-i%CC%87%C3%A7i-g%C3%B6r%C3%BCnt%C3%BCler)
+4. [UML Class Diagramı](https://github.com/mehmetaydintr/Banka_Otomasyonu#uml-class-diagram%C4%B1)
 
 ## Kullanılan Teknolojiler
 
